@@ -1,0 +1,16 @@
+s3(Simple storage service):- unlimited storage Bucket
+
+EC2 (Elastic cloud compute):- Virtual computer used primarly for its processing power.(Common use-web hosting)
+
+RDS:- customer account information
+
+
+AWS features:-
+High availbilty,fault tolerance,scalablity,elasticity
+
+
+Scalability is the ability to increase in size as demand increases. Elasticity is term commonly used to describe the ability to both grow AND shrink based on demand.
+
+Project Omega;- Classsified development project i.e going to be built and run using AWS web services.
+
+free Tier:- Limited free use of AWS services up to 12 months for new customers
